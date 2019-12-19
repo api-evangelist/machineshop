@@ -1,0 +1,67 @@
+{
+    "name": "MachineShop",
+    "description": "MachineShop is the Edge Computing Company - Intelligence at the Edge. Intelligent Integration to the Cloud.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2665-machineshop.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "internet of things",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/machineshop\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MachineShop",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2665-machineshop.jpg",
+            "humanURL": "http:\/\/www.machineshop.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/machineshop-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.machineshop.io\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.machineshop.io\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/machineshop-inc"
+        },
+        {
+            "type": "Email",
+            "url": "contact@machineshop.io"
+        },
+        {
+            "type": "Email",
+            "url": "information@machineshop.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/MachineShop-IOT"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/machineshopio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.machineshop.io\/"
+        }
+    ]
+}
